@@ -1,0 +1,13 @@
+body {
+    background-color:hsl(212, 45%, 89%);
+}
+
+.box {
+    max-width: 300px;
+    max-height: 400px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.box img {
+    width: 100%;
+}
